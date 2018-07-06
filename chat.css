@@ -1,0 +1,19 @@
+
+.r1{
+  padding: 3%;
+}
+.my-b1{
+	background-color: #ede1c2;
+	padding:1%;
+
+}
+.form-control{
+display: block;
+width: 100%;
+font-size: 1rem;
+line-height: 1.5;
+padding: .375rem .75rem; 
+}
+body{
+	background-color: #f2f3f4;
+}

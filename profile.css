@@ -1,0 +1,37 @@
+.pf1{
+	background-color: #FFFFFF;
+	margin-right: 0%;
+	margin-left: 0%;
+}
+.p3{
+	padding: 1rem;
+}
+body{
+	background-color: #f2f3f4;
+}
+.p4{
+	padding: 3rem;
+}
+
+@media (min-width: 768px){
+	.d-md-block{
+		display: block;
+	}
+}
+
+@media (min-width: 576px){
+
+	.d-sm-block{
+		display:block;
+	}
+}
+@media(min-width: 576px){
+	.d-sm-none{
+		display: none;
+	}
+}
+}
+.mt-3{
+	margin-left: 0%;
+	margin-right: 0%;
+}
